@@ -1,0 +1,21 @@
+.jumbotron {
+    background-color: #52A2FC;
+    padding: 0;
+    padding-bottom: 5px;
+    margin-bottom: 25px;
+}
+.jumbotron h1, .jumbotron .h1 {
+    font-size: 45px;
+    color: white;
+}
+.my-search .input-group {
+    padding: 20px;
+}
+body {
+    padding-top: 0px;
+    background-color: rgba(194, 197, 73, 0.22);
+}
+h1, h2 {
+    font-family: 'Lobster', cursive, Arial, serif;
+    font-weight: 400;
+}
